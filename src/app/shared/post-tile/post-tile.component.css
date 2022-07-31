@@ -39,3 +39,14 @@
 .post-text{
     margin-top: 10px;
 }
+
+.container1{
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}  
+
+.horizontal-line2{
+    margin: 5px;
+}
